@@ -44,7 +44,7 @@ A entrega possui status e código de rastreamento.
 ### ✅ Solução
 <img align="center" src="https://github.com/Eduardo220/ecommerce/blob/main/e-commerce.png" width=""/> 
 
-## 🛠️ Minha tecnologia
+## 🛠️ Minhas tecnologias
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100">   
