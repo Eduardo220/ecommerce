@@ -5,7 +5,8 @@ Primeiro desafio de projeto do curso "SQL Database Specialist" da [DIO](https://
 Entidades: Produto, Estoque, Fornecedor, Pedido, Cliente.
 
 ### 📖 História
-CPF: CPF (Cadastro de Pessoas Físicas) é um número de identificação de contribuintes emitido pela Receita Federal do Brasil. É um número de 11 dígitos usado para identificar pessoas físicas para fins fiscais, financeiros e legais.
+CPF: CPF (Cadastro de Pessoas Físicas) é um número de identificação de contribuintes emitido pela Receita Federal do Brasil. É um número de 11 dígitos usado para identificar pessoas físicas para fins fiscais, financeiros e legais. <br>
+
 CNPJ: CNPJ (Cadastro Nacional da Pessoa Jurídica) é um número de identificação empresarial emitido pela Receita Federal do Brasil. É usado para identificar pessoas jurídicas (empresas, organizações e outras entidades comerciais) para fins fiscais, financeiros e regulatórios.
 
 #### 1. Produto
