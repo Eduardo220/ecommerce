@@ -1,5 +1,5 @@
 # Refinando um design conceitual de banco de dados
-Primeiro desafio de projeto do curso "Especialista em Banco de Dados SQL" da DIO.
+Primeiro desafio de projeto do curso "SQL Database Specialist" da [DIO](https://www.dio.me/).
 
 ### 💵 E-commerce
 Entidades: Produto, Estoque, Fornecedor, Pedido, Cliente.
@@ -42,7 +42,7 @@ O cliente pode cadastrar mais de um método de pagamento.
 A entrega possui status e código de rastreamento.
 
 ### ✅ Solução
-![Solucao](https://imgur.com/a/yAIkMJn)
+<img align="center" src="https://github.com/Eduardo220/ecommerce/blob/main/e-commerce.png" width=""/> 
 
 ## 🛠️ Minha tecnologia
 <p align="center">
